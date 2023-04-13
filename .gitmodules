@@ -1,0 +1,4 @@
+[submodule "longitudinal-resting-eeg"]
+	path = longitudinal-resting-eeg
+	url = https://github.com/sfb1451/B03_longitudinal-resting-eeg.git
+	datalad-id = 088c451d-6a4f-4c16-83d4-947820728847
