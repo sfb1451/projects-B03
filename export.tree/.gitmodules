@@ -1,0 +1,9 @@
+[submodule "longitudinal-resting-eeg"]
+	path = longitudinal-resting-eeg
+	url = https://github.com/sfb1451/B03_longitudinal-resting-eeg.git
+	datalad-id = 088c451d-6a4f-4c16-83d4-947820728847
+[submodule "externally-cued-movements"]
+	path = externally-cued-movements
+	url = https://github.com/sfb1451/B03_externally-cued-movements.git
+	datalad-id = a808f9e1-d638-4771-ae4c-ff21da29151a
+	datalad-url = https://github.com/sfb1451/B03_externally-cued-movements.git

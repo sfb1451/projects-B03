@@ -1,0 +1,18 @@
+abstract: Using computational models based on data from modalities that yield high
+  temporal as well as spatial resolution (EEG and MEG), the causal role of cortical
+  network connectivity in motor control will be analysed. The models will help to
+  understand the neurobiological basis of actions, how ageing and neurological diseases
+  impair the coordinated interaction between cortical motor areas, and how changes
+  in network node activity and connectivity relate to impaired motor behaviour. The
+  simulation results may thus inform the development of novel treatment strategies
+  for neurological diseases by the remedy of dysfunctional network activity.
+authors:
+- {family-names: Daun, given-names: Silvia}
+- {family-names: Fink, given-names: Gereon}
+- {family-names: Rosjat, given-names: Nils}
+- {family-names: Yeldesbay, given-names: Azamat}
+- {family-names: Sazhumyan, given-names: Marina}
+cff-version: 1.2.0
+message: Generated with data scraped from crc1451.uni-koeln.de
+title: 'B03: Modelling neural network dynamics underlying movements in health and
+  disease'
