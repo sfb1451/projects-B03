@@ -1,0 +1,7 @@
+name	MEG IntExt Ageing
+title	Neural Network Dynamics Underlying Movements in Health and Disease
+description	Raw MEG data and T1 structural scans of younger and older subjects performing the internally and externally (IntExt) finger tapping task.
+crc-project	B03
+version	latest
+sample[organism]	NCBITaxon:9606
+sample[organism-part]	UBERON:0000955
